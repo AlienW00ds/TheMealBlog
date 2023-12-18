@@ -1,0 +1,27 @@
+Clean up our basic projects 
+installing necessary pkgs
+1 bootstrap
+2 react-router-dom
+3 react-loader-spinner
+4 axios
+
+Set up Pages 
+Home Pages
+About Pages
+Single meal pages 
+Error page 
+
+Setup react router dom in the app.jsx
+
+create some components
+1 Nav
+2 Footer
+
+to create home 
+1 Hero
+2. Searchform
+3.Meal list
+
+work on context api
+
+axios to make 
